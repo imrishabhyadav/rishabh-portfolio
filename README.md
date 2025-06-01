@@ -17,8 +17,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/imrishabhyadav/rishabh-portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
-## TL;DR
-
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [imrishabhyadav](https://github.com/imrishabhyadav/rishabh-portfolio). Thanks!
 
 ## Built With
